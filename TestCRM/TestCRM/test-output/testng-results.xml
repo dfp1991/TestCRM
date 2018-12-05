@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1068" started-at="2018-01-13T12:27:53Z" finished-at="2018-01-13T12:27:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1068" started-at="2018-01-13T12:27:53Z" finished-at="2018-01-13T12:27:54Z">
+      <class name="com.crm.AddDeptTest">
+        <test-method status="PASS" signature="addDept(java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crm.AddDeptTest@643b1d11]" name="addDept" duration-ms="923" started-at="2018-01-13T20:27:53Z" data-provider="CsvDataProvider" finished-at="2018-01-13T20:27:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[正常添加]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[接口测试]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[名字]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[61]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[OK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDept -->
+        <test-method status="PASS" signature="addDept(java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.crm.AddDeptTest@643b1d11]" name="addDept" duration-ms="80" started-at="2018-01-13T20:27:54Z" data-provider="CsvDataProvider" finished-at="2018-01-13T20:27:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC-002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[正常添加2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[接口测试2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[名字2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[61]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[OK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDept -->
+      </class> <!-- com.crm.AddDeptTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
